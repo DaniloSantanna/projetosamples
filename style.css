@@ -85,10 +85,12 @@ body {
     font-size:20px;
     text-align:center;
     line-height:90px;
+    cursor:pointer;
 }
 .fotos img {
     margin-left:10px;
     margin-right:10px;
+    cursor:pointer;
 }
 .rodape {
     background-color:#347aba;
@@ -96,4 +98,5 @@ body {
     text-align:center;
     line-height:50px;
     color:#FFFFFF;
+    margin-top:40px;
 }
