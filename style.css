@@ -45,5 +45,16 @@ body {
 }
 .bannerinterior {
     width:1000px;
-    height:auto
+    margin:auto;
+}
+.banneresquerda {
+    float:left
+}
+.bannerdireita {
+    float:right;
+}
+.frase1 {
+    font-size:48px;
+    color:#FFFFFF;
+    margin-top:60px;
 }
